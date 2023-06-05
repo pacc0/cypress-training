@@ -1,0 +1,17 @@
+{
+  "name": "cypress-training",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "Camilo Fuentes <camilo.fuentes@perficient.com> (https://github.com/pacc0)",
+  "license": "MIT"
+}

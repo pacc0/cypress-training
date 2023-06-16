@@ -4,7 +4,8 @@
   "description": "This is a Workshop about Cypress",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+    "test:open": "cypress open"
   },
   "keywords": [
     "ui-testing",
@@ -13,5 +14,8 @@
     "cypress"
   ],
   "author": "Camilo Fuentes <camilo.fuentes@perficient.com> (https://github.com/pacc0)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.14.0"
+  }
 }
